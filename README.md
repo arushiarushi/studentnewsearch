@@ -3,6 +3,7 @@
 This repository highlights a search engine project developed with the guidance under the Search and Recommendation Systems class taught by Professor Chirag Shah at the University of Washington. The project aimed to optimize search and recommendation functionalities using content from The Daily UW, the university's student-run newspaper.
 
 The implemented system allows users to search articles efficiently and view trending topics based on popular queries. This project integrates concepts from search and recommendation systems, providing both a functional search interface and a "what others are searching for" recommendation section.
+<img width="778" alt="Screenshot 2025-01-06 at 8 24 46 PM" src="https://github.com/user-attachments/assets/5fd29094-fb59-43a8-9074-245a92a8d362" />
 
 
 ### Technical Details
