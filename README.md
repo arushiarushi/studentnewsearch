@@ -1,6 +1,6 @@
 # Daily UW: Student News Search Engine
 ## Overview 
-This repository highlights a search engine project developed for the Search and Recommendation Systems class with Professor Chirag Shah at the University of Washington. The project aimed to optimize search and recommendation functionalities using content from The Daily UW, the university's student-run newspaper.
+This repository highlights a search engine project developed with the guidance under the Search and Recommendation Systems class taught by Professor Chirag Shah at the University of Washington. The project aimed to optimize search and recommendation functionalities using content from The Daily UW, the university's student-run newspaper.
 
 The implemented system allows users to search articles efficiently and view trending topics based on popular queries. This project integrates concepts from search and recommendation systems, providing both a functional search interface and a "what others are searching for" recommendation section.
 
