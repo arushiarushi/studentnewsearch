@@ -6,7 +6,7 @@ The implemented system allows users to search articles efficiently and view tren
 
 
 ### Technical Details
-The project is hosted on a private server at http://searchrec.ischool.uw.edu/manavag/search-final.php. (Note: The website is not publicly accessible, but a video walkthrough is included in this repository.)
+The project is hosted on a private server at http://searchrec.ischool.uw.edu/manavag/search-final.php. (Note: The website is not publicly accessible, but a video walkthrough is included in the 'Desktop'folder of this repository.)
 
 ### Data Collection
 - The content from The Daily UW website (https://www.dailyuw.com/) was crawled using the wget command. This data was then indexed to create a searchable database. 
