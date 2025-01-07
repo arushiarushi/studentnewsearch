@@ -9,32 +9,24 @@ The implemented system allows users to search articles efficiently and view tren
 The project is hosted on a private server at http://searchrec.ischool.uw.edu/manavag/search-final.php. (Note: The website is not publicly accessible, but a video walkthrough is included in this repository.)
 
 ### Data Collection
-
-The content from The Daily UW website (https://www.dailyuw.com/) was crawled using the wget command. This data was then indexed to create a searchable database.
-
-### Indexing
-
-Used PyTerrier for indexing and retrieval and leveraged the FilesIndexer and IndexFactory classes to structure and load data efficiently.
+- The content from The Daily UW website (https://www.dailyuw.com/) was crawled using the wget command. This data was then indexed to create a searchable database. 
+- Used PyTerrier for indexing and retrieval and leveraged the FilesIndexer and IndexFactory classes to structure and load data efficiently. The preprocessing retained original phrasing to preserve context in news headlines. 
+- The TF-IDF model was selected for its simplicity, speed, and effectiveness in identifying relevant results. It assigns higher importance to unique terms, ensuring accurate retrieval of documents.
+  
 
 ### Index Statistics:
-
 Number of documents: 963
 Number of terms: 18,691
 Number of postings: 1,083,722
 Number of tokens: 7,886,349
 
-### Retrieval Model
-
-The TF-IDF model was selected for its simplicity, speed, and effectiveness in identifying relevant results. It assigns higher importance to unique terms, ensuring accurate retrieval of documents.
-
-
 
 ## Acknowledgments
 Special thanks to Professor Chirag Shah for guiding us through the concepts of search and recommendation systems.
 
-# Contributors
+### Contributors
 Arushi, Manav, Martin, Daphni
 
-# Creative Commons License
+### Creative Commons License
 https://creativecommons.org/licenses/by-nc-sa/4.0/ 
 
